@@ -1,5 +1,15 @@
 {
-  "status": "created or updated via GitHub API",
-  "updated_by": "luv",
-  "updated_at": "2025-05-16"
+  "products": [
+    {
+      "id": 1747403417437,
+      "name": "First collection",
+      "image": "htttps:/random.com",
+      "price": 25,
+      "description": "bla bla bla bla bla bla",
+      "category": "earrings"
+    }
+  ],
+  "categories": [],
+  "offers": [],
+  "occasions": []
 }
