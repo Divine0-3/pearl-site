@@ -15,6 +15,14 @@
       "price": 45,
       "description": "larili larila",
       "category": "bracelets"
+    },
+    {
+      "id": 1747403673486,
+      "name": "Third",
+      "image": "htttps:/siticon.com",
+      "price": 45,
+      "description": "larili larila",
+      "category": "bracelets"
     }
   ],
   "categories": [],
