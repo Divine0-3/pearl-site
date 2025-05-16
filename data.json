@@ -7,6 +7,14 @@
       "price": 25,
       "description": "bla bla bla bla bla bla",
       "category": "earrings"
+    },
+    {
+      "id": 1747403544086,
+      "name": "second",
+      "image": "htttps:/miticon.com",
+      "price": 45,
+      "description": "larili larila",
+      "category": "bracelets"
     }
   ],
   "categories": [],
