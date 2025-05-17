@@ -111,11 +111,19 @@
       "description": "popppp",
       "image": "htttps:/random.com",
       "id": 1747461676882
+    },
+    {
+      "name": "new3",
+      "price": 55666,
+      "category": "Necklace",
+      "description": "kinh",
+      "image": "htttps:/random.com",
+      "id": 1747461697055
     }
   ],
   "categories": [],
   "offers": [],
   "occasions": [],
   "updated_by": "admin",
-  "updated_at": "2025-05-17T11:31:16.882865Z"
+  "updated_at": "2025-05-17T11:31:37.055028Z"
 }
