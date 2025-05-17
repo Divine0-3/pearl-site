@@ -1,14 +1,6 @@
 {
   "products": [
     {
-      "id": 1747462444358,
-      "name": "Another white",
-      "image": "https://photos.google.com/share/AF1QipMyvr0afDMzhx2rV1sKL9RKaUY1U0wGDXC81snu8-wLCURmGIIp-yP-CN6UrYBHiQ/photo/AF1QipNT390eEmYas0ssBlY-T_F5ga1HnTh-HEsQ8cRD?key=cXZuX3pUQW1yLVZaU0ZuZW92TEN1WV93SmV3VDdR?usp=sharing",
-      "price": 7899,
-      "description": "trying trying",
-      "category": "Chains"
-    },
-    {
       "id": 1747462513150,
       "name": "testing pic",
       "image": "https://images.news18.com/ibnlive/uploads/2021/08/1628438277_islamic-new-year.jpg",
