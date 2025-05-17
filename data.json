@@ -1,52 +1,33 @@
 {
-
   "products": [
-
     {
-
       "id": 1747467902975,
-
       "name": "treeee",
-
       "image": "https://cdn.pixabay.com/photo/2017/05/15/17/03/new-zealand-2315449_640.jpg",
-
       "price": 211,
-
       "description": "wer",
-
       "category": "Earrings"
-
-
     },
-
-
     {
-
-
       "id": 1747467934887,
-
-
       "name": "wee",
-
-
       "image": "https://drive.google.com/uc?export=view&id=18pZVwADcmaIwf1qLfKm4ty1vyVqZ0obW",
-
-
       "price": 2222,
-
-
       "description": "wee",
-
-
       "category": "Bracelets"
-
+    },
+    {
+      "id": 1747467999999,
+      "name": "New Sample Product",
+      "image": "https://cdn.pixabay.com/photo/2023/01/01/sample.jpg",
+      "price": 1234,
+      "description": "Sample description added via API",
+      "category": "Necklace"
     }
-
   ],
-
   "categories": [],
-
   "offers": [],
-
-  "occasions": []
+  "occasions": [],
+  "updated_by": "luv",
+  "updated_at": "2025-05-17T11:16:36.643969Z"
 }
