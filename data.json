@@ -1,5 +1,14 @@
 {
-  "products": [],
+  "products": [
+    {
+      "id": 1747466035551,
+      "name": "dd",
+      "image": "https://cdn.pixabay.com/photo/2017/05/15/17/03/new-zealand-2315449_640.jpg",
+      "price": 22,
+      "description": "wewwe",
+      "category": "Earrings"
+    }
+  ],
   "categories": [],
   "offers": [],
   "occasions": []
