@@ -1,31 +1,10 @@
-{
-  "products": [
-    {
-      "id": 1747468179732,
-      "name": "we3jjee",
-      "image": "https://cdn.pixabay.com/photo/2017/05/15/17/03/new-zealand-2315449_640.jpg",
-      "price": 222,
-      "description": "aew",
-      "category": "Bracelets"
-    },
-    {
-      "id": 1747468407904,
-      "name": "iooooww",
-      "image": "htttps:/random.com",
-      "price": 22,
-      "description": "ee",
-      "category": "Bracelets"
-    },
-    {
-      "id": 1747468427443,
-      "name": "new",
-      "image": "htttps:/miticon.com",
-      "price": 222,
-      "description": "ekekek",
-      "category": "Bracelets"
-    }
-  ],
-  "categories": [],
-  "offers": [],
-  "occasions": []
-}
+[
+  {
+    "id": "p1747468795374",
+    "name": "ww",
+    "price": 33,
+    "category": "Clothing",
+    "description": "wer",
+    "image": "https://cdn.pixabay.com/photo/2017/05/15/17/03/new-zealand-2315449_640.jpg"
+  }
+]
