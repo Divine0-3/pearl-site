@@ -1,14 +1,6 @@
 {
   "products": [
     {
-      "id": 1747463699647,
-      "name": "treeee",
-      "image": "https://cdn.pixabay.com/photo/2017/05/15/17/03/new-zealand-2315449_640.jpg",
-      "price": 9999,
-      "description": "sdasdwww",
-      "category": "Earrings"
-    },
-    {
       "id": 1747463883597,
       "name": "car",
       "image": "https://www.indiacarnews.com/wp-content/uploads/2024/10/Upcoming-New-Cars-in-India-1068x712.webp",
