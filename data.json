@@ -119,11 +119,19 @@
       "description": "kinh",
       "image": "htttps:/random.com",
       "id": 1747461697055
+    },
+    {
+      "id": 1747481651701,
+      "name": "new 4",
+      "price": 9999,
+      "category": "Necklace",
+      "description": "lllll",
+      "image": "https://www.indiacarnews.com/wp-content/uploads/2024/10/Upcoming-New-Cars-in-India-1068x712.webp"
     }
   ],
   "categories": [],
   "offers": [],
   "occasions": [],
   "updated_by": "admin",
-  "updated_at": "2025-05-17T11:31:37.055028Z"
+  "updated_at": "2025-05-17T11:34:12.196Z"
 }
