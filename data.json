@@ -1,14 +1,5 @@
 {
-  "products": [
-    {
-      "id": 1747467571054,
-      "name": "tree",
-      "image": "https://www.indiacarnews.com/wp-content/uploads/2024/10/Upcoming-New-Cars-in-India-1068x712.webp",
-      "price": 2222,
-      "description": "wer",
-      "category": "Bracelets"
-    }
-  ],
+  "products": [],
   "categories": [],
   "offers": [],
   "occasions": []
