@@ -1,14 +1,6 @@
 {
   "products": [
     {
-      "id": 1747461437276,
-      "name": "white pearl",
-      "image": "https://photos.app.goo.gl/evrU6SQnpBm9y5TX7",
-      "price": 9999,
-      "description": "Nice",
-      "category": "Chains"
-    },
-    {
       "id": 1747462444358,
       "name": "Another white",
       "image": "https://photos.google.com/share/AF1QipMyvr0afDMzhx2rV1sKL9RKaUY1U0wGDXC81snu8-wLCURmGIIp-yP-CN6UrYBHiQ/photo/AF1QipNT390eEmYas0ssBlY-T_F5ga1HnTh-HEsQ8cRD?key=cXZuX3pUQW1yLVZaU0ZuZW92TEN1WV93SmV3VDdR?usp=sharing",
