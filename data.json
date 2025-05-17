@@ -15,6 +15,14 @@
       "price": 34,
       "description": "ooww",
       "category": "Bracelets"
+    },
+    {
+      "id": 1747463607628,
+      "name": "ww",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fhappy-new-year&psig=AOvVaw1j2KNsPUnD5cnHKyIxipin&ust=1747548861859000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICc3vvsqY0DFQAAAAAdAAAAABAv",
+      "price": 22,
+      "description": "wee",
+      "category": "Earrings"
     }
   ],
   "categories": [],
