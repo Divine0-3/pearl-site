@@ -127,11 +127,19 @@
       "category": "Necklace",
       "description": "lllll",
       "image": "https://www.indiacarnews.com/wp-content/uploads/2024/10/Upcoming-New-Cars-in-India-1068x712.webp"
+    },
+    {
+      "id": 1747481786587,
+      "name": "new 8",
+      "price": 9999,
+      "category": "Bracelet",
+      "description": "poppp",
+      "image": "htttps:/random.com"
     }
   ],
   "categories": [],
   "offers": [],
   "occasions": [],
   "updated_by": "admin",
-  "updated_at": "2025-05-17T11:34:12.196Z"
+  "updated_at": "2025-05-17T11:36:27.161Z"
 }
