@@ -15,6 +15,14 @@
       "price": 22,
       "description": "ee",
       "category": "Bracelets"
+    },
+    {
+      "id": 1747468427443,
+      "name": "new",
+      "image": "htttps:/miticon.com",
+      "price": 222,
+      "description": "ekekek",
+      "category": "Bracelets"
     }
   ],
   "categories": [],
