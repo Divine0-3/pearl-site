@@ -1,14 +1,5 @@
 {
-  "products": [
-    {
-      "id": 1747465546587,
-      "name": "new",
-      "image": "https://cdn.pixabay.com/photo/2017/05/15/17/03/new-zealand-2315449_640.jpg",
-      "price": 22,
-      "description": "www",
-      "category": "Earrings"
-    }
-  ],
+  "products": [],
   "categories": [],
   "offers": [],
   "occasions": []
