@@ -1,14 +1,6 @@
 {
   "products": [
     {
-      "id": 1747403417437,
-      "name": "First collection",
-      "image": "htttps:/skiker.com",
-      "price": 235,
-      "description": "bla bla bla bla bla bla edited",
-      "category": "Bracelets"
-    },
-    {
       "id": 1747403673486,
       "name": "Third",
       "image": "htttps:/siticon.com",
@@ -38,14 +30,6 @@
       "image": "https://images.news18.com/ibnlive/uploads/2021/08/1628438277_islamic-new-year.jpg",
       "price": 11,
       "description": "errrr",
-      "category": "Earrings"
-    },
-    {
-      "id": 1747462858816,
-      "name": "second",
-      "image": "https://drive.google.com/uc?export=view&id=18pZVwADcmaIwf1qLfKm4ty1vyVqZ0obW",
-      "price": 55,
-      "description": "hola",
       "category": "Earrings"
     }
   ],
