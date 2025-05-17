@@ -23,6 +23,14 @@
       "price": 45,
       "description": "larili larila",
       "category": "bracelets"
+    },
+    {
+      "id": 1747461437276,
+      "name": "white pearl",
+      "image": "https://photos.app.goo.gl/evrU6SQnpBm9y5TX7",
+      "price": 4999,
+      "description": "Nice",
+      "category": "Chains"
     }
   ],
   "categories": [],
