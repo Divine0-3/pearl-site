@@ -1,1 +1,52 @@
+{
 
+  "products": [
+
+    {
+
+      "id": 1747467902975,
+
+      "name": "treeee",
+
+      "image": "https://cdn.pixabay.com/photo/2017/05/15/17/03/new-zealand-2315449_640.jpg",
+
+      "price": 211,
+
+      "description": "wer",
+
+      "category": "Earrings"
+
+
+    },
+
+
+    {
+
+
+      "id": 1747467934887,
+
+
+      "name": "wee",
+
+
+      "image": "https://drive.google.com/uc?export=view&id=18pZVwADcmaIwf1qLfKm4ty1vyVqZ0obW",
+
+
+      "price": 2222,
+
+
+      "description": "wee",
+
+
+      "category": "Bracelets"
+
+    }
+
+  ],
+
+  "categories": [],
+
+  "offers": [],
+
+  "occasions": []
+}
