@@ -22,5 +22,13 @@
     "category": "Electronics",
     "description": "www",
     "image": "https://www.indiacarnews.com/wp-content/uploads/2024/10/Upcoming-New-Cars-in-India-1068x712.webp"
+  },
+  {
+    "id": "p0015",
+    "name": "sixth",
+    "price": 9999,
+    "category": "Clothing",
+    "description": "iio",
+    "image": "htttps:/miticon.com"
   }
 ]
