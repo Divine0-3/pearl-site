@@ -15,6 +15,14 @@
       "price": 9999,
       "description": "sdasdwww",
       "category": "Earrings"
+    },
+    {
+      "id": 1747463883597,
+      "name": "car",
+      "image": "https://www.indiacarnews.com/wp-content/uploads/2024/10/Upcoming-New-Cars-in-India-1068x712.webp",
+      "price": 222,
+      "description": "weqqq",
+      "category": "Earrings"
     }
   ],
   "categories": [],
