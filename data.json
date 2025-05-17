@@ -1,5 +1,14 @@
 {
-  "products": [],
+  "products": [
+    {
+      "id": 1747467902975,
+      "name": "treeee",
+      "image": "https://cdn.pixabay.com/photo/2017/05/15/17/03/new-zealand-2315449_640.jpg",
+      "price": 211,
+      "description": "wer",
+      "category": "Earrings"
+    }
+  ],
   "categories": [],
   "offers": [],
   "occasions": []
