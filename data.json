@@ -23,11 +23,19 @@
       "price": 1234,
       "description": "Sample description added via API",
       "category": "Necklace"
+    },
+    {
+      "id": 1747467999999,
+      "name": "New Sample Product",
+      "image": "https://cdn.pixabay.com/photo/2023/01/01/sample.jpg",
+      "price": 1234,
+      "description": "Sample description added via API",
+      "category": "Necklace"
     }
   ],
   "categories": [],
   "offers": [],
   "occasions": [],
   "updated_by": "luv",
-  "updated_at": "2025-05-17T11:16:36.643969Z"
+  "updated_at": "2025-05-17T11:16:54.668647Z"
 }
