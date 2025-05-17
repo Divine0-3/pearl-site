@@ -31,6 +31,14 @@
       "price": 7899,
       "description": "trying trying",
       "category": "Chains"
+    },
+    {
+      "id": 1747462513150,
+      "name": "testing pic",
+      "image": "https://images.news18.com/ibnlive/uploads/2021/08/1628438277_islamic-new-year.jpg",
+      "price": 11,
+      "description": "errrr",
+      "category": "Earrings"
     }
   ],
   "categories": [],
