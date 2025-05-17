@@ -63,11 +63,19 @@
       "price": 1234,
       "description": "Sample description added via API",
       "category": "Necklace"
+    },
+    {
+      "id": 1747481006910,
+      "name": "new",
+      "price": 4444,
+      "category": "Necklace",
+      "description": "pop",
+      "image": "htttps:/random.com"
     }
   ],
   "categories": [],
   "offers": [],
   "occasions": [],
-  "updated_by": "luv",
-  "updated_at": "2025-05-17T11:17:44.338131Z"
+  "updated_by": "admin",
+  "updated_at": "2025-05-17T11:23:28.918Z"
 }
