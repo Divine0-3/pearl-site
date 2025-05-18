@@ -17,84 +17,12 @@
       "category": "Bracelets"
     },
     {
-      "id": 1747467999999,
-      "name": "New Sample Product",
-      "image": "https://cdn.pixabay.com/photo/2023/01/01/sample.jpg",
-      "price": 1234,
-      "description": "Sample description added via API",
-      "category": "Necklace"
-    },
-    {
-      "id": 1747467999999,
-      "name": "New Sample Product",
-      "image": "https://cdn.pixabay.com/photo/2023/01/01/sample.jpg",
-      "price": 1234,
-      "description": "Sample description added via API",
-      "category": "Necklace"
-    },
-    {
-      "id": 1747467999999,
-      "name": "New Sample Product",
-      "image": "https://cdn.pixabay.com/photo/2023/01/01/sample.jpg",
-      "price": 1234,
-      "description": "Sample description added via API",
-      "category": "Necklace"
-    },
-    {
-      "id": 1747467999999,
-      "name": "New Sample Product",
-      "image": "https://cdn.pixabay.com/photo/2023/01/01/sample.jpg",
-      "price": 1234,
-      "description": "Sample description added via API",
-      "category": "Necklace"
-    },
-    {
-      "id": 1747467999999,
-      "name": "New Sample Product",
-      "image": "https://cdn.pixabay.com/photo/2023/01/01/sample.jpg",
-      "price": 1234,
-      "description": "Sample description added via API",
-      "category": "Necklace"
-    },
-    {
-      "id": 1747467999999,
-      "name": "1 Sample Product",
-      "image": "https://cdn.pixabay.com/photo/2023/01/01/sample.jpg",
-      "price": 1234,
-      "description": "Sample description added via API",
-      "category": "Necklace"
-    },
-    {
       "id": 1747481006910,
       "name": "new",
       "price": 4444,
       "category": "Necklace",
       "description": "pop",
       "image": "htttps:/random.com"
-    },
-    {
-      "id": 1747467999999,
-      "name": "1 Sample Product",
-      "image": "https://cdn.pixabay.com/photo/2023/01/01/sample.jpg",
-      "price": 1234,
-      "description": "Sample description added via API",
-      "category": "Necklace"
-    },
-    {
-      "id": 1747467999999,
-      "name": "1 Sample Product",
-      "image": "https://cdn.pixabay.com/photo/2023/01/01/sample.jpg",
-      "price": 1234,
-      "description": "Sample description added via API",
-      "category": "Necklace"
-    },
-    {
-      "id": 1747467999999,
-      "name": "1 Sample Product",
-      "image": "https://cdn.pixabay.com/photo/2023/01/01/sample.jpg",
-      "price": 1234,
-      "description": "Sample description added via API",
-      "category": "Necklace"
     },
     {
       "name": "new1",
@@ -165,5 +93,5 @@
   "offers": [],
   "occasions": [],
   "updated_by": "admin",
-  "updated_at": "2025-05-18T16:52:53.927614"
+  "updated_at": "2025-05-18T16:57:06.242016"
 }
