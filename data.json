@@ -1,14 +1,6 @@
 {
   "products": [
     {
-      "id": 1747481651701,
-      "name": "new 4",
-      "price": 9999,
-      "category": "Necklace",
-      "description": "lllll",
-      "image": "https://www.indiacarnews.com/wp-content/uploads/2024/10/Upcoming-New-Cars-in-India-1068x712.webp"
-    },
-    {
       "id": 1747481786587,
       "name": "new 8",
       "price": 9999,
@@ -45,5 +37,5 @@
   "offers": [],
   "occasions": [],
   "updated_by": "admin",
-  "updated_at": "2025-05-18T16:59:30.627303"
+  "updated_at": "2025-05-18T16:59:33.699123"
 }
