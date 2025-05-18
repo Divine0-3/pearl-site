@@ -1,14 +1,6 @@
 {
   "products": [
     {
-      "name": "new2",
-      "price": 4444,
-      "category": "Ring",
-      "description": "popppp",
-      "image": "htttps:/random.com",
-      "id": 1747461676882
-    },
-    {
       "name": "new3",
       "price": 55666,
       "category": "Necklace",
@@ -61,5 +53,5 @@
   "offers": [],
   "occasions": [],
   "updated_by": "admin",
-  "updated_at": "2025-05-18T16:59:23.627505"
+  "updated_at": "2025-05-18T16:59:28.066782"
 }
