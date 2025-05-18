@@ -9,14 +9,6 @@
       "image": "htttps:/random.com"
     },
     {
-      "id": 1747565243671,
-      "name": "new 15",
-      "price": 999,
-      "category": "Bracelet",
-      "description": "ww",
-      "image": "htttps:/random.com"
-    },
-    {
       "id": 1747567224,
       "name": "new 20",
       "price": 333.0,
@@ -45,5 +37,5 @@
   "offers": [],
   "occasions": [],
   "updated_by": "admin",
-  "updated_at": "2025-05-18T17:03:43.047312"
+  "updated_at": "2025-05-18T17:13:28.478468"
 }
