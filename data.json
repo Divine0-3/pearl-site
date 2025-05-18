@@ -7,11 +7,19 @@
       "category": "Bracelet",
       "description": "poppp",
       "image": "htttps:/random.com"
+    },
+    {
+      "id": 1747568683,
+      "name": "new 1",
+      "price": 9999.0,
+      "category": "Bracelet",
+      "description": "poppp",
+      "image": "htttps:/random.com"
     }
   ],
   "categories": [],
   "offers": [],
   "occasions": [],
   "updated_by": "admin",
-  "updated_at": "2025-05-18T17:14:34.217522"
+  "updated_at": "2025-05-18T17:14:43.326855"
 }
