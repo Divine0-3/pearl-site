@@ -1,14 +1,6 @@
 {
   "products": [
     {
-      "id": 1747481786587,
-      "name": "new 8",
-      "price": 9999,
-      "category": "Bracelet",
-      "description": "poppp",
-      "image": "htttps:/random.com"
-    },
-    {
       "id": 1747567224,
       "name": "new 20",
       "price": 333.0,
@@ -37,5 +29,5 @@
   "offers": [],
   "occasions": [],
   "updated_by": "admin",
-  "updated_at": "2025-05-18T17:13:28.478468"
+  "updated_at": "2025-05-18T17:13:36.867991"
 }
