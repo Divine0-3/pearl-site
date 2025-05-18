@@ -1,14 +1,6 @@
 {
   "products": [
     {
-      "id": 1747481006910,
-      "name": "new",
-      "price": 4444,
-      "category": "Necklace",
-      "description": "pop",
-      "image": "htttps:/random.com"
-    },
-    {
       "name": "new1",
       "price": 2222,
       "category": "Necklace",
@@ -77,5 +69,5 @@
   "offers": [],
   "occasions": [],
   "updated_by": "admin",
-  "updated_at": "2025-05-18T16:57:20.373092"
+  "updated_at": "2025-05-18T16:59:11.888330"
 }
