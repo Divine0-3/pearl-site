@@ -1,14 +1,6 @@
 {
   "products": [
     {
-      "id": 1747567373,
-      "name": "new 21",
-      "price": 0.07,
-      "category": "ff",
-      "description": "ff",
-      "image": "https://www.google.com"
-    },
-    {
       "id": 1747568023,
       "name": "new 9999",
       "price": 9999.0,
@@ -21,5 +13,5 @@
   "offers": [],
   "occasions": [],
   "updated_by": "admin",
-  "updated_at": "2025-05-18T17:14:29.501817"
+  "updated_at": "2025-05-18T17:14:34.217522"
 }
