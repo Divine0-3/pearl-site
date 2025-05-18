@@ -1,14 +1,6 @@
 {
   "products": [
     {
-      "name": "new3",
-      "price": 55666,
-      "category": "Necklace",
-      "description": "kinh",
-      "image": "htttps:/random.com",
-      "id": 1747461697055
-    },
-    {
       "id": 1747481651701,
       "name": "new 4",
       "price": 9999,
@@ -53,5 +45,5 @@
   "offers": [],
   "occasions": [],
   "updated_by": "admin",
-  "updated_at": "2025-05-18T16:59:28.066782"
+  "updated_at": "2025-05-18T16:59:30.627303"
 }
