@@ -143,11 +143,19 @@
       "category": "Bracelet",
       "description": "ww",
       "image": "htttps:/random.com"
+    },
+    {
+      "id": 1747567224,
+      "name": "new 20",
+      "price": 333.0,
+      "category": "333",
+      "description": "dlkdd\r\n",
+      "image": "https://www.google.com"
     }
   ],
   "categories": [],
   "offers": [],
   "occasions": [],
   "updated_by": "admin",
-  "updated_at": "2025-05-18T10:47:24.419Z"
+  "updated_at": "2025-05-18T16:50:24.321578"
 }
