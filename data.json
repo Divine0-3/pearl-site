@@ -23,8 +23,15 @@
       "name": "Black pearls"
     }
   ],
-  "offers": [],
+  "offers": [
+    {
+      "id": 1747726005,
+      "title": "Black tihatian pearls",
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczN1drr2J4BrZkdE_PwNkFNS-q87F-m1o8hjCXMrTF3HfRXvZrPj9wlhu7-O5UWjENtKre3oml4y7GD0iwZq6uv2YebmCebbfE-_jeoWJhHPxdcLyd9TfDpD2R-UdA6wAbULpiNl__wimYck3x3PzOk=w1280-h757-s-no?authuser=0",
+      "discountPercentage": 70
+    }
+  ],
   "occasions": [],
   "updated_by": "admin",
-  "updated_at": "2025-05-20T12:54:06.817841"
+  "updated_at": "2025-05-20T12:56:45.944613"
 }
