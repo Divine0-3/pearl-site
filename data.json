@@ -32,7 +32,14 @@
       "discountPercentage": 56
     }
   ],
-  "occasions": [],
+  "occasions": [
+    {
+      "id": 1747727964,
+      "name": "Diwali",
+      "tagline": "Gift the special diwali gift",
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczP_7JmLfuQUbLPhMragODemASpfa2CC1S5GFCwIWoi4GvWN4cTFNNz6kcE79W2oYOCuwnqGueJvx1gSuXN-SgABHq82UWYnOGBhi1TaTMELeENPbkUsHGzI8F-NQ-U_SbiBaJPJS-dq0jSrxhmTRMg=w525-h886-s-no?authuser=0"
+    }
+  ],
   "updated_by": "admin",
-  "updated_at": "2025-05-20T13:29:01.626836"
+  "updated_at": "2025-05-20T13:29:24.563580"
 }
