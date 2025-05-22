@@ -36,12 +36,6 @@
       "discountPercentage": 56
     },
     {
-      "id": 1747928291,
-      "title": "White Pearl",
-      "image": "https://lh3.googleusercontent.com/pw/AP1GczNZICpy8mQmC09Ks469t6lDSh2azY-IluqceqkXMB2jMJShXr5hpHgH6VPfWEXjekz8Xwrl_b9Xe4R7mLhkvXlKz9nHOkg9dXZkQ26rW9MQA60SGQyMJJ14WHHio7bfaU1rHLwPyyeO4ZwyImyK7EY=w1080-h842-s-no?authuser=0",
-      "discountPercentage": 20
-    },
-    {
       "id": 1747929047,
       "title": "White Pearl",
       "image": "https://lh3.googleusercontent.com/pw/AP1GczNZICpy8mQmC09Ks469t6lDSh2azY-IluqceqkXMB2jMJShXr5hpHgH6VPfWEXjekz8Xwrl_b9Xe4R7mLhkvXlKz9nHOkg9dXZkQ26rW9MQA60SGQyMJJ14WHHio7bfaU1rHLwPyyeO4ZwyImyK7EY=w1080-h842-s-no?authuser=0",
@@ -58,5 +52,5 @@
     }
   ],
   "updated_by": "admin",
-  "updated_at": "2025-05-22T21:20:47.978096"
+  "updated_at": "2025-05-22T21:20:55.860443"
 }
