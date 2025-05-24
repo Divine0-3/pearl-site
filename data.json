@@ -58,13 +58,6 @@
       "tagline": "White pearl for your girl",
       "tag": "Limited time",
       "discountPercentage": 10
-    },
-    {
-      "id": 1748106357,
-      "title": "nice",
-      "image": "https://www.biffigioielli.com/wp-content/uploads/2024/06/FILO-PERLE.jpg",
-      "tagline": "Rare",
-      "tag": "Special Offer"
     }
   ],
   "occasions": [
@@ -76,5 +69,5 @@
     }
   ],
   "updated_by": "admin",
-  "updated_at": "2025-05-24T22:35:57.305527"
+  "updated_at": "2025-05-24T22:39:28.453600"
 }
