@@ -15,14 +15,6 @@
       "category": "222",
       "description": "www",
       "image": "https://lh3.googleusercontent.com/pw/AP1GczPNNHXLJTUhfeZ3GZHnoGNNa2wXqZz8mHifd4libx7wSibDy6SqYflRKpYGyrQI9wGyL3BbqZc3ikiKUqtkkT19EmkPOSOWSdvo9qwtuPW80jHTiipJxTdDu-0VCAWA-CyqtZ5dRlRUkANgTTvUs7A=w665-h886-s-no?authuser=0"
-    },
-    {
-      "id": 1748103873,
-      "name": "Super greeny white",
-      "price": 22.0,
-      "category": "White pearls",
-      "description": "new",
-      "image": "https://lh3.googleusercontent.com/pw/AP1GczO1Ej3wHqjU74zfcrfiRCwCo4RyY7SBJ7eqZ12nuQ78jxG3FR_2SWZ5G1APMEYAeA9LbdSgv4afYoTmDgBiNuFDQSZhoOgrCMRUKt8Za7QXIalAwXLIC5DIaSowenG7I5toARLvMTCucqqiQ4_YjgY=w724-h886-s-no?authuser=0"
     }
   ],
   "categories": [
@@ -68,5 +60,5 @@
     }
   ],
   "updated_by": "admin",
-  "updated_at": "2025-05-24T21:54:33.251460"
+  "updated_at": "2025-05-24T22:10:15.649310"
 }
