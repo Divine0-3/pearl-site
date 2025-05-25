@@ -78,8 +78,17 @@
       "name": "Diwali",
       "tagline": "Gift the special diwali gift",
       "image": "https://lh3.googleusercontent.com/pw/AP1GczP_7JmLfuQUbLPhMragODemASpfa2CC1S5GFCwIWoi4GvWN4cTFNNz6kcE79W2oYOCuwnqGueJvx1gSuXN-SgABHq82UWYnOGBhi1TaTMELeENPbkUsHGzI8F-NQ-U_SbiBaJPJS-dq0jSrxhmTRMg=w525-h886-s-no?authuser=0"
+    },
+    {
+      "id": 1748143856,
+      "name": "Holi",
+      "tagline": "holi hai holi",
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczNQtivg2EsLQJEQ7vbhIrqVWjMSXC5qpshcW9RZ8UCmXWGSJ9OQWCXa7v5yebAyhrnxxwiozfGFRU2cj27LOtGhMf6PNardPwHKPZzVCG4DBsMjuhR7d-u6zINEvpvI4QUJ6dzYjhHM5i6Tj9kyrPg=w665-h886-s-no?authuser=0",
+      "products": [
+        1747570317
+      ]
     }
   ],
   "updated_by": "admin",
-  "updated_at": "2025-05-25T08:58:10.454770"
+  "updated_at": "2025-05-25T09:00:56.479956"
 }
