@@ -88,8 +88,17 @@
         1747569993,
         1747570317
       ]
+    },
+    {
+      "id": 1748268032,
+      "name": "NEW YEAR!",
+      "tagline": "start with this",
+      "image": "https://www.togetherv.com/blog/wp-content/uploads/2023/12/New-Year-8.jpg",
+      "products": [
+        1748105174
+      ]
     }
   ],
   "updated_by": "admin",
-  "updated_at": "2025-05-25T17:28:35.393711"
+  "updated_at": "2025-05-26T19:30:32.165296"
 }
