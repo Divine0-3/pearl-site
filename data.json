@@ -1,14 +1,6 @@
 {
   "products": [
     {
-      "id": 1747569993,
-      "name": "white",
-      "price": 999.0,
-      "category": "pearl",
-      "description": "something",
-      "image": "https://lh3.googleusercontent.com/pw/AP1GczOnoKb15NS0_fFd4oBA3MCNCMhDFa5O0FMPBxOXj5CTOMyC_zhybhbfcJFI5NuXKBMfmNvkCPifl-CKby3gbv9RLo_8kJf_GwONo4g-EJqUz-Os1WKKdz_KWYzmi1HxJjQAnLozKR9sTcsANqnYxi4=w665-h886-s-no?authuser=0"
-    },
-    {
       "id": 1747570317,
       "name": "black",
       "price": 444.0,
@@ -110,5 +102,5 @@
     }
   ],
   "updated_by": "admin",
-  "updated_at": "2025-05-27T17:37:30.861738"
+  "updated_at": "2025-05-27T17:38:52.779968"
 }
