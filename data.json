@@ -48,6 +48,17 @@
       "color": "white",
       "added_date": "2025-05-30",
       "discountPercentage": 20
+    },
+    {
+      "id": 1748606129,
+      "name": "Super new",
+      "price": 10000.0,
+      "category": "White pearls",
+      "description": "nice",
+      "image": "https://res.cloudinary.com/dtwbfey4x/image/upload/v1748606119/h6qrmzrxgyxoajkcm0ye.jpg",
+      "color": "pink",
+      "added_date": "2025-05-30",
+      "discountPercentage": 30
     }
   ],
   "categories": [
@@ -124,5 +135,5 @@
     }
   ],
   "updated_by": "admin",
-  "updated_at": "2025-05-30T17:20:15.580577"
+  "updated_at": "2025-05-30T17:25:29.646699"
 }
