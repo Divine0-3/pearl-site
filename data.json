@@ -59,6 +59,17 @@
       "color": "pink",
       "added_date": "2025-05-30",
       "discountPercentage": 30
+    },
+    {
+      "id": 1748767267,
+      "name": "stone blue",
+      "price": 14599.0,
+      "category": "White pearls",
+      "description": "hiyogo",
+      "image": "https://res.cloudinary.com/dtwbfey4x/image/upload/v1748767266/pdn72mv81rpjpq3ksrsp.jpg",
+      "color": "all",
+      "added_date": "2025-06-01",
+      "discountPercentage": 30
     }
   ],
   "categories": [
@@ -135,5 +146,5 @@
     }
   ],
   "updated_by": "admin",
-  "updated_at": "2025-06-01T14:04:52.212403"
+  "updated_at": "2025-06-01T14:11:07.208696"
 }
