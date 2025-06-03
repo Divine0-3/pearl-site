@@ -70,17 +70,6 @@
       "color": "all",
       "added_date": "2025-06-01",
       "discountPercentage": 30
-    },
-    {
-      "id": 1748953343,
-      "name": "miyoko",
-      "price": 3333.0,
-      "category": "Black Pearls",
-      "description": "eiee",
-      "image": "https://res.cloudinary.com/dtwbfey4x/image/upload/v1748953342/ebak7mpnvsecijvie69f.jpg",
-      "precious_set": "Rarest Pearls",
-      "color": "rare",
-      "added_date": "2025-06-03"
     }
   ],
   "categories": [
@@ -157,5 +146,5 @@
     }
   ],
   "updated_by": "admin",
-  "updated_at": "2025-06-03T17:52:23.671589"
+  "updated_at": "2025-06-03T17:55:15.489272"
 }
