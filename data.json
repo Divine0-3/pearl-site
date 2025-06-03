@@ -70,16 +70,6 @@
       "color": "all",
       "added_date": "2025-06-01",
       "discountPercentage": 30
-    },
-    {
-      "id": 1748953106,
-      "name": "miyoko",
-      "price": 4599.0,
-      "category": "Black Pearls",
-      "description": "zika zuka",
-      "image": "https://res.cloudinary.com/dtwbfey4x/image/upload/v1748953105/zpd5vlsyzqin4sbkc6v5.jpg",
-      "color": "white",
-      "added_date": "2025-06-03"
     }
   ],
   "categories": [
@@ -156,5 +146,5 @@
     }
   ],
   "updated_by": "admin",
-  "updated_at": "2025-06-03T17:48:26.427358"
+  "updated_at": "2025-06-03T17:51:48.068372"
 }
