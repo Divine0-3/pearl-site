@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1761464294,
-      "name": "Somethings",
+      "name": "Somethingsoo",
       "price": 1000,
       "category": "Freshwater White Pearl",
       "description": "Something something",
@@ -91,5 +91,5 @@
     }
   ],
   "updated_by": "admin",
-  "updated_at": "2025-10-26T15:29:47.840679"
+  "updated_at": "2025-10-26T15:30:22.342175"
 }
