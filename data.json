@@ -10,6 +10,16 @@
       "precious_set": "Freshwater White Pearls",
       "added_date": "2025-10-26",
       "discountPercentage": 10
+    },
+    {
+      "id": 1761473944,
+      "name": "new 1",
+      "price": 22,
+      "category": "Freshwater White Pearl",
+      "description": "wowow",
+      "image": "https://res.cloudinary.com/dtwbfey4x/image/upload/v1761473943/psuy41olrmue0zc8lsj8.jpg",
+      "precious_set": "Freshwater White Pearls",
+      "added_date": "2025-10-26"
     }
   ],
   "categories": [
@@ -91,5 +101,5 @@
     }
   ],
   "updated_by": "admin",
-  "updated_at": "2025-10-26T15:30:22.342175"
+  "updated_at": "2025-10-26T15:49:04.677901"
 }
