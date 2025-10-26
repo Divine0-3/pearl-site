@@ -86,6 +86,10 @@
     {
       "id": 1761460975,
       "name": "Freshwater White Pearls"
+    },
+    {
+      "id": 1761461033,
+      "name": "Rare Black pearls"
     }
   ],
   "offers": [
@@ -140,5 +144,5 @@
     }
   ],
   "updated_by": "admin",
-  "updated_at": "2025-10-26T06:42:55.932974"
+  "updated_at": "2025-10-26T06:43:53.039505"
 }
