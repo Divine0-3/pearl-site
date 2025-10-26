@@ -94,10 +94,6 @@
     {
       "id": 1761461098,
       "name": "Rare found exotic pearls"
-    },
-    {
-      "id": 1761461290,
-      "name": "South sea/ Japanese/ Freshwater Coloured Pearls"
     }
   ],
   "offers": [
@@ -152,5 +148,5 @@
     }
   ],
   "updated_by": "admin",
-  "updated_at": "2025-10-26T06:48:35.950910"
+  "updated_at": "2025-10-26T06:49:12.444562"
 }
