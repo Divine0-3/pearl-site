@@ -1,5 +1,16 @@
 {
-  "products": [],
+  "products": [
+    {
+      "id": 1761464294,
+      "name": "Something",
+      "price": 1000,
+      "category": "Freshwater White Pearls",
+      "description": "Something something",
+      "image": "https://res.cloudinary.com/dtwbfey4x/image/upload/v1761464293/otykel51j8rksc6gozut.jpg",
+      "precious_set": "Freshwater White Pearls",
+      "added_date": "2025-10-26"
+    }
+  ],
   "categories": [
     {
       "id": 1761460975,
@@ -78,5 +89,5 @@
     }
   ],
   "updated_by": "admin",
-  "updated_at": "2025-10-26T07:28:18.644526"
+  "updated_at": "2025-10-26T13:08:14.984006"
 }
