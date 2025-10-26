@@ -1,14 +1,6 @@
 {
   "products": [
     {
-      "id": 1747570317,
-      "name": "black",
-      "price": 444.0,
-      "category": "222",
-      "description": "www",
-      "image": "https://lh3.googleusercontent.com/pw/AP1GczPNNHXLJTUhfeZ3GZHnoGNNa2wXqZz8mHifd4libx7wSibDy6SqYflRKpYGyrQI9wGyL3BbqZc3ikiKUqtkkT19EmkPOSOWSdvo9qwtuPW80jHTiipJxTdDu-0VCAWA-CyqtZ5dRlRUkANgTTvUs7A=w665-h886-s-no?authuser=0"
-    },
-    {
       "id": 1748105174,
       "name": "wwee",
       "price": 22.0,
@@ -160,5 +152,5 @@
     }
   ],
   "updated_by": "admin",
-  "updated_at": "2025-10-26T06:54:30.347585"
+  "updated_at": "2025-10-26T06:55:19.807969"
 }
