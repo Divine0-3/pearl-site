@@ -100,10 +100,6 @@
       "name": "Gemstone jewellery"
     },
     {
-      "id": 1761461205,
-      "name": "Shell per"
-    },
-    {
       "id": 1761461222,
       "name": "Shell pearls"
     },
@@ -164,5 +160,5 @@
     }
   ],
   "updated_by": "admin",
-  "updated_at": "2025-10-26T06:48:10.700002"
+  "updated_at": "2025-10-26T06:48:23.734111"
 }
