@@ -84,10 +84,6 @@
   ],
   "categories": [
     {
-      "id": 1747924468,
-      "name": "White pearls"
-    },
-    {
       "id": 1748352601,
       "name": "Black Pearls"
     }
@@ -144,5 +140,5 @@
     }
   ],
   "updated_by": "admin",
-  "updated_at": "2025-10-26T06:41:15.021735"
+  "updated_at": "2025-10-26T06:42:14.351497"
 }
