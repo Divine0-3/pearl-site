@@ -1,15 +1,6 @@
 {
   "products": [
     {
-      "id": 1748105174,
-      "name": "wwee",
-      "price": 22.0,
-      "category": "White pearls",
-      "description": "ww",
-      "image": "https://lh3.googleusercontent.com/pw/AP1GczO1Ej3wHqjU74zfcrfiRCwCo4RyY7SBJ7eqZ12nuQ78jxG3FR_2SWZ5G1APMEYAeA9LbdSgv4afYoTmDgBiNuFDQSZhoOgrCMRUKt8Za7QXIalAwXLIC5DIaSowenG7I5toARLvMTCucqqiQ4_YjgY=w724-h886-s-no?authuser=0",
-      "discountPercentage": 10
-    },
-    {
       "id": 1748347650,
       "name": "Blue",
       "price": 999.0,
@@ -141,5 +132,5 @@
     }
   ],
   "updated_by": "admin",
-  "updated_at": "2025-10-26T07:27:54.721082"
+  "updated_at": "2025-10-26T07:28:00.261365"
 }
