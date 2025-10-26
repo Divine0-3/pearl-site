@@ -90,10 +90,6 @@
     {
       "id": 1761461033,
       "name": "Rare Black pearls"
-    },
-    {
-      "id": 1761461098,
-      "name": "Rare found exotic pearls"
     }
   ],
   "offers": [
@@ -148,5 +144,5 @@
     }
   ],
   "updated_by": "admin",
-  "updated_at": "2025-10-26T06:49:12.444562"
+  "updated_at": "2025-10-26T06:49:21.359717"
 }
