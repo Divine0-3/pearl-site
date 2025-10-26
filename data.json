@@ -82,12 +82,7 @@
       "added_date": "2025-06-03"
     }
   ],
-  "categories": [
-    {
-      "id": 1748352601,
-      "name": "Black Pearls"
-    }
-  ],
+  "categories": [],
   "offers": [
     {
       "id": 1747726652,
@@ -140,5 +135,5 @@
     }
   ],
   "updated_by": "admin",
-  "updated_at": "2025-10-26T06:42:14.351497"
+  "updated_at": "2025-10-26T06:42:19.918337"
 }
