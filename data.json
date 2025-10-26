@@ -42,17 +42,6 @@
       "discountPercentage": 20
     },
     {
-      "id": 1748606129,
-      "name": "Super new",
-      "price": 10000.0,
-      "category": "White pearls",
-      "description": "nice",
-      "image": "https://res.cloudinary.com/dtwbfey4x/image/upload/v1748606119/h6qrmzrxgyxoajkcm0ye.jpg",
-      "color": "pink",
-      "added_date": "2025-05-30",
-      "discountPercentage": 30
-    },
-    {
       "id": 1748767267,
       "name": "stone blue",
       "price": 14599.0,
@@ -152,5 +141,5 @@
     }
   ],
   "updated_by": "admin",
-  "updated_at": "2025-10-26T06:55:19.807969"
+  "updated_at": "2025-10-26T07:27:54.721082"
 }
