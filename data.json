@@ -1,16 +1,6 @@
 {
   "products": [
     {
-      "id": 1748347650,
-      "name": "Blue",
-      "price": 999.0,
-      "category": "Black pearls",
-      "description": "good",
-      "image": "https://lh3.googleusercontent.com/pw/AP1GczOw_a8R6ShENwiWYFKTOm3owrGeB3YrEVlHoBVK3RyUHsC0MX051JDUTUpoQ_czmnPfiGkrGQlJH2NDxOgEMoRyi9t4LAejtSldNpKgqmWKsu6J4hqHC6KTub08xHs0d-9qlWIRTnqVTRCMajbsz5s=w881-h886-s-no?authuser=0",
-      "color": "black",
-      "discountPercentage": 25
-    },
-    {
       "id": 1748521689,
       "name": "jolike",
       "price": 1500.0,
@@ -111,5 +101,5 @@
     }
   ],
   "updated_by": "admin",
-  "updated_at": "2025-10-26T07:28:10.173376"
+  "updated_at": "2025-10-26T07:28:13.856235"
 }
