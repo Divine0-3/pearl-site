@@ -100,10 +100,6 @@
       "name": "Gemstone jewellery"
     },
     {
-      "id": 1761461222,
-      "name": "Shell pearls"
-    },
-    {
       "id": 1761461290,
       "name": "South sea/ Japanese/ Freshwater Coloured Pearls"
     }
@@ -160,5 +156,5 @@
     }
   ],
   "updated_by": "admin",
-  "updated_at": "2025-10-26T06:48:23.734111"
+  "updated_at": "2025-10-26T06:48:31.146944"
 }
