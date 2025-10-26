@@ -106,6 +106,10 @@
     {
       "id": 1761461222,
       "name": "Shell pearls"
+    },
+    {
+      "id": 1761461290,
+      "name": "South sea/ Japanese/ Freshwater Coloured Pearls"
     }
   ],
   "offers": [
@@ -160,5 +164,5 @@
     }
   ],
   "updated_by": "admin",
-  "updated_at": "2025-10-26T06:47:35.937902"
+  "updated_at": "2025-10-26T06:48:10.700002"
 }
