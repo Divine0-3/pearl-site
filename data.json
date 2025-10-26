@@ -102,6 +102,10 @@
     {
       "id": 1761461586,
       "name": "Gemstone jewellery"
+    },
+    {
+      "id": 1761461670,
+      "name": "Mollusk shell pearls"
     }
   ],
   "offers": [
@@ -156,5 +160,5 @@
     }
   ],
   "updated_by": "admin",
-  "updated_at": "2025-10-26T06:53:06.712099"
+  "updated_at": "2025-10-26T06:54:30.347585"
 }
