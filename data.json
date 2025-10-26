@@ -82,7 +82,12 @@
       "added_date": "2025-06-03"
     }
   ],
-  "categories": [],
+  "categories": [
+    {
+      "id": 1761460975,
+      "name": "Freshwater White Pearls"
+    }
+  ],
   "offers": [
     {
       "id": 1747726652,
@@ -135,5 +140,5 @@
     }
   ],
   "updated_by": "admin",
-  "updated_at": "2025-10-26T06:42:19.918337"
+  "updated_at": "2025-10-26T06:42:55.932974"
 }
