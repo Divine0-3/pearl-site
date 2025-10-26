@@ -1,17 +1,5 @@
 {
-  "products": [
-    {
-      "id": 1748521689,
-      "name": "jolike",
-      "price": 1500.0,
-      "category": "White pearls",
-      "description": "olalila",
-      "image": "https://lh3.googleusercontent.com/pw/AP1GczMzSAiyKmFsT8pF4iYMg54MbHBtQoWalRCqdmLhXY2R4P_gT048gZbfqSwqZfiASs9cM1jHBApZHvwfIQoFK-0hX0ACnWb-HdiEk_hw2Sh4kyQMd8KYRPaE5d-oxBGm-f_jyhlQK22G0Zf98oWWJLw=w665-h886-s-no?authuser=0",
-      "color": "all",
-      "added_date": "2025-05-29",
-      "discountPercentage": 20
-    }
-  ],
+  "products": [],
   "categories": [
     {
       "id": 1761460975,
@@ -90,5 +78,5 @@
     }
   ],
   "updated_by": "admin",
-  "updated_at": "2025-10-26T07:28:15.854374"
+  "updated_at": "2025-10-26T07:28:18.644526"
 }
