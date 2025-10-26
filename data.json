@@ -98,6 +98,10 @@
     {
       "id": 1761461541,
       "name": "South sea/ Japanese/ Australian rare pearls"
+    },
+    {
+      "id": 1761461586,
+      "name": "Gemstone jewellery"
     }
   ],
   "offers": [
@@ -152,5 +156,5 @@
     }
   ],
   "updated_by": "admin",
-  "updated_at": "2025-10-26T06:52:21.958350"
+  "updated_at": "2025-10-26T06:53:06.712099"
 }
