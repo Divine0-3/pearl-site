@@ -2,13 +2,14 @@
   "products": [
     {
       "id": 1761464294,
-      "name": "Something",
+      "name": "Somethings",
       "price": 1000,
       "category": "Freshwater White Pearls",
       "description": "Something something",
-      "image": "https://res.cloudinary.com/dtwbfey4x/image/upload/v1761472360/c43lbnbw7phqghliht7m.jpg",
+      "image": "https://res.cloudinary.com/dtwbfey4x/image/upload/v1761472388/oa8gue8ye6zohw7bwpab.jpg",
       "precious_set": "Freshwater White Pearls",
-      "added_date": "2025-10-26"
+      "added_date": "2025-10-26",
+      "discountPercentage": 10
     }
   ],
   "categories": [
@@ -90,5 +91,5 @@
     }
   ],
   "updated_by": "admin",
-  "updated_at": "2025-10-26T15:22:41.896752"
+  "updated_at": "2025-10-26T15:23:09.691191"
 }
