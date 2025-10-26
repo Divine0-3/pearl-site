@@ -4,7 +4,7 @@
       "id": 1761464294,
       "name": "Somethings",
       "price": 1000,
-      "category": "Freshwater White Pearls",
+      "category": "Freshwater White Pearl",
       "description": "Something something",
       "image": "https://res.cloudinary.com/dtwbfey4x/image/upload/v1761472388/oa8gue8ye6zohw7bwpab.jpg",
       "precious_set": "Freshwater White Pearls",
@@ -91,5 +91,5 @@
     }
   ],
   "updated_by": "admin",
-  "updated_at": "2025-10-26T15:25:06.026150"
+  "updated_at": "2025-10-26T15:27:47.716827"
 }
