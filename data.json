@@ -10,17 +10,6 @@
       "color": "all",
       "added_date": "2025-05-29",
       "discountPercentage": 20
-    },
-    {
-      "id": 1748605815,
-      "name": "Super greeny orange",
-      "price": 30.0,
-      "category": "White pearls",
-      "description": "nice",
-      "image": "https://res.cloudinary.com/dtwbfey4x/image/upload/v1748605769/b86sfnspjm4axyhaooad.jpg",
-      "color": "white",
-      "added_date": "2025-05-30",
-      "discountPercentage": 20
     }
   ],
   "categories": [
@@ -101,5 +90,5 @@
     }
   ],
   "updated_by": "admin",
-  "updated_at": "2025-10-26T07:28:13.856235"
+  "updated_at": "2025-10-26T07:28:15.854374"
 }
